@@ -2,7 +2,8 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-  <img align='left' src="https://user-images.githubusercontent.com/43394177/93125640-1ee44f00-f6d4-11ea-82e8-29b7c7e59b4e.jpeg" width="230">
+<!--   <img align='left' src="https://user-images.githubusercontent.com/43394177/93125640-1ee44f00-f6d4-11ea-82e8-29b7c7e59b4e.jpeg" width="230"> -->
+    <img align='left' src="https://imgur.com/nXkRvf7" width="230">
   
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matimasganow@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mati-masganow-5209b2169/)
